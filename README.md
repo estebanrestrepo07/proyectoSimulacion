@@ -71,11 +71,15 @@ Para esta sección del script es donde se desarrollará el Máquinas de soporte 
 * En este código se ejecuta los resultados del indice de fisher
 
 ### Selección de características por método de búsqueda secuencial ascendente o descendente
-> *Para poder ejecutar  Selección de características por método de búsqueda secuencial ascendente o descendente de forma adecuada, se requiere ejecutar la secciones de [Inicio e Importación] y [Introducción y Configuración]*
+> *Para poder ejecutar  Selección de características por método de búsqueda secuencial ascendente o descendente de forma adecuada, se requiere ejecutar la secciones de [Inicio e Importación] y [Introducción y Configuración] y los 5 modelos usados en este notebook para  evidenciar los todos los resultados de los modelos luego de haber seleccionado las caracteristicas*
 
 Para esta sección del script es donde se desarrollará Selección de características por método de búsqueda secuencial ascendente o descendente (cada punto representa el código que se debe ejecutar en ese orden):
-* Código con la seleccion de caracteristicas por metodo de busqueda secuencial
+* Código con la seleccion de características por metodo de busqueda secuencial
 * Mostramos el Dataframe con los resultados de SFS
+* se hara la selección de características según los resultados de SFS
+* se ejecutará QDA luego de selección de características
+* se ejecutará GBT luego de selección de características
+* se ejecutará SVC luego de selección de características
 
 ### Extracción de características por el método PCA
 > *Para poder ejecutar Extracción de características por el método PCA de forma adecuada, se requiere ejecutar la secciones de [Inicio e Importación] y [Introducción y Configuración]*
