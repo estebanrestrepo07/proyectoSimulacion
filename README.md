@@ -3,7 +3,9 @@
 El siguiente repositorio contiene la base de datos y el script
 para la realización de los puntos requeridos en el proyecto
 
-La base de datos puede ser obtenida directamente del respositorio o en el siguiente enlace https://www.kaggle.com/saurograndi/airplane-crashes-since-1908/notebooks
+* La base de datos puede ser obtenida directamente del respositorio dentro de la carperta db o en el siguiente enlace https://www.kaggle.com/saurograndi/airplane-crashes-since-1908/notebooks
+* El script-Notebook se encuentra en el folder Notebooks con nombre *proyectoSimulacion.ipynb*
+
 
 > *El script esta pensado para ejecutarse en orden de arriba hacia abajo.*
 > *El script esta separado por secciones para que se comprenda de forma adecuada y corresponda a los puntos del proyecto*
